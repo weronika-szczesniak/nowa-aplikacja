@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Patato page</title>
+	<link rel="stylesheet" 
+	href="my-styles.css">
+  </head>
+  <body>
+	<ul>
+	<li> 
+		<u> 
+			<a href="https://www.google.pl">
+				home
+			 </a>
+		</u> 
+	</li>
+    <li> <u>
+		<a href="https://www.google.pl/imghp?hl=pl&tab=wi&ogbl">
+		picture
+		</a>
+		</u></li>
+    <li> <u>
+    <a href="https://www.youtube.com/?gl=PL&tab=i11">
+    music
+    </a>
+    </u></li>
+    </ul>
+    <p> <b>Hello!</b></p>
+    <p>paragraph 1</p>
+     <p>paragraph 2</p>
+      <p>paragraph 3</p>
+      
+      <img src="picture.jpg"/>
+  </body>
+</html>
