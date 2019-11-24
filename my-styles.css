@@ -2,6 +2,11 @@ body {
  background: #E6E6FA;
 }
 
+
+h1 {
+    color: blueviolet;
+}
+
 p {
     color: darkmagenta;
 }
